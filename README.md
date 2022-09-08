@@ -2,7 +2,7 @@ Professional Web Developer (Java / React / Node.js / Vue.js / .NET)
 
 I have expertise in Java, Javascript, React, Node.js, Vue.js, and .NET. I can find a path to getting your project done quickly when you want to use those skills in your project. But I’m not limited to those skills. I’m a fast learner and can be adapted quickly to any skills needed in your project. I can work alone or on your team as an individual contributor.
 
-My key technical skills (not limited to):
+My key technical skills (not limited to)
 ➢ HTML5 / CSS / SASS / SCSS
 ➢ JavaScript / TypeScript / JQuery
 ➢ Java / Spring Boot
