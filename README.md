@@ -5,6 +5,7 @@ I have expertise in Java, Javascript, React, Node.js, Vue.js, and .NET. I can fi
 Contact
 - gmail: ovoroshylo3@gmail.com
 - skype: live:.cid.244ad5ce8950c493
+- telegram: @comet1212
 
 My key technical skills (not limited to)
 - HTML5 / CSS / SASS / SCSS
