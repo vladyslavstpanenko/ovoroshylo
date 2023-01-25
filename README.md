@@ -7,7 +7,6 @@ Contact
 - skype: live:.cid.244ad5ce8950c493
 - telegram: @comet1212 <br>
 <b>I'd like to have a chat on telegram.</b>
-- whatsapp: 994105319387
 
 My key technical skills (not limited to)
 - HTML5 / CSS / SASS / SCSS
