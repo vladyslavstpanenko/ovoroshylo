@@ -1,6 +1,7 @@
 Professional Web Developer (Java / React / Node.js / Vue.js / .NET)
 
-I have expertise in Java, Javascript, React, Node.js, Vue.js, and .NET. I can find a path to getting your project done quickly when you want to use those skills in your project. But I’m not limited to those skills. I’m a fast learner and can be adapted quickly to any skills needed in your project. I can work alone or on your team as an individual contributor.
+I have expertise in Web development with various languages including Java, PHP, Python, Node.js, and C#, in android app development with React-Native, Flutter, Xamarin and Ionic and also expertized in Ethereum / Solana / Polygon blockchain development with Solidity, Golang and Rust.
+I can find a path to getting your project done quickly when you want to use those skills in your project. But I’m not limited to those skills. I’m a fast learner and can be adapted quickly to any skills needed in your project. I can work alone or on your team as an individual contributor.
 
 Contact
 - gmail: ovoroshylo3@gmail.com
@@ -10,15 +11,15 @@ Contact
 
 My key technical skills (not limited to)
 - HTML5 / CSS / SASS / SCSS
-- JavaScript / TypeScript / JQuery
-- Java / Spring Boot
-- Python / Django / Flask
-- React (Next.js, Redux), React Native
-- Vue.js (Nuxt.js)
-- Node.js
-- Webpack
-- MongoDB, MySQL, PostgreSQL
-- GitHub, GitLab, Bitbucket
+- JavaScript / TypeScript / Bootstrap / jQuery
+- React(Next.js) / Vue.js(Nuxt.js) / Angular.js
+- Java(Spring Boot) / C#(ASP.NET MVC) / Python(Django, Flask) / PHP(Laravel, CodeIgniter, Symfony) / Node.js
+- Flutter / React-Native / Xamarin / Ionic
+- Ethereum / Solana / Polygon / Bitcoin
+- Solidity/ Golang / Rust
+- SQL(MySQL, PostgreSQL, MS SQL Server) / NoSQL databases(MongoDB)
+- GIT / Subversion
+- AWS / Google Cloud / Firebase / Azure
 
 > Programming languages.
 <p>
