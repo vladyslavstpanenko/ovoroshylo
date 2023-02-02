@@ -3,12 +3,6 @@ Professional Web Developer (Java / React / Node.js / Vue.js / .NET)
 I have expertise in Web development with various languages including Java, PHP, Python, Node.js, and C#, in android app development with React-Native, Flutter, Xamarin and Ionic and also expertized in Ethereum / Solana / Polygon blockchain development with Solidity, Golang and Rust.
 I can find a path to getting your project done quickly when you want to use those skills in your project. But I’m not limited to those skills. I’m a fast learner and can be adapted quickly to any skills needed in your project. I can work alone or on your team as an individual contributor.
 
-Contact
-- gmail: ovoroshylo3@gmail.com
-- skype: live:.cid.244ad5ce8950c493
-- telegram: @comet1212
-
-
 My key technical skills (not limited to)
 - HTML5 / CSS / SASS / SCSS
 - JavaScript / TypeScript / Bootstrap / jQuery
